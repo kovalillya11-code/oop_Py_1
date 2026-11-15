@@ -18,8 +18,8 @@ class Student:
 
 
 
-student1 = Student("Олена", 19, 2)
-student2 = Student("Максим", 21, 3)
+student1 = Student("Ло", 19, 2)
+student2 = Student("Тайлер", 21, 3)
 
 student1.show_info()
 student2.show_info()
